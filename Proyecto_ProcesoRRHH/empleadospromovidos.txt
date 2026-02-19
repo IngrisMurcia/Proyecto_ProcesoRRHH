@@ -1,0 +1,3 @@
+Pedro Martes,1010,Calidad
+Pedro Martes,1010,IT
+Ingris Ayala,0501199908834,Control de Calidad

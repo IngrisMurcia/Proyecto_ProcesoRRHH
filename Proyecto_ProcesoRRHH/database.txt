@@ -1,0 +1,11 @@
+admin,admin123,admin,Activo
+usuario1,clave123,lectura,Activo
+usuario2,clave456,edicion,Activo
+usuario3,clave789,estandar,Inactivo
+dunia,dunia123,lectura,Activo
+Jamil,Bonilla23,edicion,Inactivo
+prueba,prueba123,lectura,Activo
+Dunia,dunia124,edicion,Inactivo
+nohemymurcia,Muraya,estandar,Activo
+Marta,Marta123,edicion,Inactivo
+damaya,damaya,lectura,Inactivo

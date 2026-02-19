@@ -1,0 +1,19 @@
+=== LIQUIDACION DE CAJA CHICA ===
+Fecha: 10/04/2025
+
+GASTOS REGISTRADOS:
+
+Factura #HGU-56
+  - COMIDA (L. 800.00)
+Total Factura: L. 800.00
+
+Factura #KJI-86
+  - GASOLINA (L. 700.00)
+Total Factura: L. 700.00
+
+Factura #OKI-58
+  - VIAJE (L. 500.00)
+Total Factura: L. 500.00
+
+Total Gastado: L. 2000.00
+Saldo en caja: L. 3000.00

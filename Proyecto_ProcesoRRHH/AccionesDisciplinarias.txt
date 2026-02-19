@@ -1,0 +1,3 @@
+Pedro Martes,1010,Leve,Escrito
+Ingris Ayala,0501199908834,Grave,Despido
+Pedro Martes,1010,Grave,Despido
