@@ -11,24 +11,13 @@ Funcionalidades principales:
   •	Gestión de Reembolsos
   •	Programación de Capacitaciones
   •	Registro de Solicitudes de limpieza
-  •	Base de datos simulada mediante archivos de texto
+  •	Base de datos simulada mediante archivos de texto.
 
 Estructura del Proyecto
 El proyecto incluye:
 •	ProcesoRRHH.cpp – Archivo principal con la lógica del sistema
 •	database.txt – Archivo general de almacenamiento de datos
-•	Archivos de registros específicos:
-  o	Candidatos.txt
-  o	CitasProgramadas.txt
-  o	AccionesDisciplinarias.txt
-  o	EmpleadosDespidoJustificado.txt
-  o	empleadospromovidos.txt
-  o	planilla.txt
-  o	liquidacion.txt
-  o	solicitud_reembolso.txt
-  o	programacioncapacitaciones.txt
-  o	solicitudes_limpieza.txt
-  o	calculototal.txt
+•	Archivos de registros específicos: Candidatos.txt, CitasProgramadas.txt, AccionesDisciplinarias.txt, EmpleadosDespidoJustificado.txt, empleadospromovidos.txt, planilla.txt, liquidacion.txt, solicitud_reembolso.txt, programacioncapacitaciones.txt, solicitudes_limpieza.txt, calculototal.txt
 
 Programas utilizadas:
   •	C++
@@ -41,5 +30,5 @@ Cómo ejecutar el proyecto
   2.	Ejecutar: ./ProcesoRRHH
   (En Windows: ProcesoRRHH.exe)
 
-usuario: admin
+usuario: admin,
 pass: admin123
